@@ -29,3 +29,10 @@ Install dependencies with:
 ```bash
 git clone <your-repo-url>
 cd <repo-folder>
+```
+### Run the training script (e.g., train.py or your notebook):
+```bash
+Copy
+Edit
+python train.py
+```
